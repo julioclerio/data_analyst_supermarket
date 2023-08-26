@@ -16,18 +16,14 @@ The "notebooks" folder contains Jupyter Notebook files detailing the step-by-ste
 In the "visualizations" folder, you will find the visual outputs generated during the analysis using PowerBI.
 
 ## Customer Spending Patterns: Key Visualizations
-Explore key visualizations shedding light on customer spending patterns in the supermarket:
+Visualizations of customer spending patterns in the supermarket:
 
-**Total Expenses Over Time:** A line chart depicting the variation in total expenses over different time periods. This visualization, despite lacking specific purchase dates, can still offer insights into trends.
 
-**Item Categories vs. Expenses:** A bar plot showcasing expense distribution across various item categories. This glimpse into popular product categories helps identify customer preferences.
+**Item Categories vs. Expenses:** Expense distribution across various item categories. This glimpse into popular product categories helps identify customer preferences.
 
-**Customer Purchase Frequency:** A histogram displaying purchase frequency, offering an overview of customer loyalty and average time gaps between visits.
 
 **Basket Analysis:** A heatmap illustrating correlations between items frequently purchased together, aiding in optimizing product placements and cross-selling strategies.
 
 **Conclusion:**
-Despite the limitation of missing purchase dates, this project demonstrates the power of Exploratory Data Analysis (EDA) in understanding customer expenses. Our Jupyter Notebook incorporates various graphics alongside PowerBI visualizations to provide actionable insights for sales enhancement, improved customer experiences, and overall business strategies.
-
-Thank you for being part of this presentation! Explore the repository for more in-depth insights and code samples. Your feedback is invaluable.
+The Jupyter Notebook incorporates various graphics alongside PowerBI visualizations to provide insights for sales enhancement, improved customer experiences, and overall business strategies.
 

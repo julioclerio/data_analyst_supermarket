@@ -1,5 +1,6 @@
 # Data Analyst Supermarket
 Analyzing customer spending patterns, item popularity, and trends using supermarket transaction data.
+Activity Completed During the Data Analyst Course at Soul Code Academy
 
 ## Type of Project: Data Analysis
 This project is an example of exploratory data analysis. For this project, I focused on a supermarket dataset containing information about customer transactions.
